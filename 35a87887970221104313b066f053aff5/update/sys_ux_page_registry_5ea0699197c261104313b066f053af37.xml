@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>9aa0699197c261104313b066f053af34</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app/>
+        <path>tn_book</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:25:40</sys_created_on>
+        <sys_id>5ea0699197c261104313b066f053af37</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>TN Book Management</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book Management">35a87887970221104313b066f053aff5</sys_scope>
+        <sys_update_name>sys_ux_page_registry_5ea0699197c261104313b066f053af37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 10:09:45</sys_updated_on>
+        <title>TN Book Management</title>
+    </sys_ux_page_registry>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Book Management">35a87887970221104313b066f053aff5</claim_owner_scope>
+        <claim_timestamp>1876fcaf9000000001</claim_timestamp>
+        <metadata_update_name>sys_ux_page_registry_5ea0699197c261104313b066f053af37</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Book Management</previous_claim_name>
+        <previous_claim_scope>35a87887970221104313b066f053aff5</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 10:09:45</sys_created_on>
+        <sys_id>85da784b970221104313b066f053af65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 10:09:45</sys_updated_on>
+    </sys_claim>
+</record_update>
