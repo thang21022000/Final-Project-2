@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Request books usually takes 2-3 days to process this request.</p>
+<p> </p>
+<p><span style="font-size: 10pt; color: #000000;">What we&#39;ll need from you:</span></p>
+<ul style="list-style-position: inside;"><li>Personal infomation</li><li>Pick up and pay time</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Borrow Book</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>7bb535e39742a1104313b066f053af9b</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=ec34b5a39742a1104313b066f053afa1&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>You want a book to read but don't want to buy ? Click here. </short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:41:39</sys_created_on>
+        <sys_id>ec34b5a39742a1104313b066f053afa1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Borrow Book</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book Management">35a87887970221104313b066f053aff5</sys_scope>
+        <sys_update_name>sc_cat_item_ec34b5a39742a1104313b066f053afa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 08:24:31</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Book Borrow Flow 2">193c266b9706a1104313b066f053afbc</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ec34b5a39742a1104313b066f053afa1"/>
+    <fx_price action="delete_multiple" query="id=ec34b5a39742a1104313b066f053afa1"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>ec34b5a39742a1104313b066f053afa1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:41:39</sys_created_on>
+        <sys_id>e3257da39742a1104313b066f053afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 03:41:39</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>ec34b5a39742a1104313b066f053afa1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:41:39</sys_created_on>
+        <sys_id>e3257da39742a1104313b066f053afc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 03:41:39</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <hash>e3992eb52cb9d676164ac63609abf750cfe026363f48fccf4782719f7c96efda</hash>
+        <image_height>128</image_height>
+        <image_width>128</image_width>
+        <size_bytes>3059</size_bytes>
+        <size_compressed>3060</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:44:08</sys_created_on>
+        <sys_id>7bb535e39742a1104313b066f053af9b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 03:44:08</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>ec34b5a39742a1104313b066f053afa1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="7bb535e39742a1104313b066f053af9b">7bb535e39742a1104313b066f053af9b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:44:08</sys_created_on>
+        <sys_id>bbb535e39742a1104313b066f053af9b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4068</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="7bb535e39742a1104313b066f053af9b">7bb535e39742a1104313b066f053af9b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:44:08</sys_created_on>
+        <sys_id>3fb535e39742a1104313b066f053af9b</sys_id>
+    </sys_attachment_doc>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Book Management">35a87887970221104313b066f053aff5</claim_owner_scope>
+        <claim_timestamp>18779b757ed0000001</claim_timestamp>
+        <metadata_update_name>sc_cat_item_ec34b5a39742a1104313b066f053afa1</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Book Management</previous_claim_name>
+        <previous_claim_scope>35a87887970221104313b066f053aff5</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 08:24:31</sys_created_on>
+        <sys_id>0fe576279746a1104313b066f053af03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 08:24:31</sys_updated_on>
+    </sys_claim>
+</record_update>
